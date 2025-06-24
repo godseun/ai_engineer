@@ -4,3 +4,9 @@ myvenv
 
 **/catboost_info
 **/raw
+study/data/cifar-100-python.tar.gz
+study/data/cifar-100-python/file.txt~
+study/data/cifar-100-python/meta
+study/data/cifar-100-python/test
+study/data/cifar-100-python/train
+study/models/model_cifar100.pth
