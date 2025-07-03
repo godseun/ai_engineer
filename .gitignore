@@ -10,3 +10,5 @@ study/data/cifar-100-python/meta
 study/data/cifar-100-python/test
 study/data/cifar-100-python/train
 study/models/model_cifar100.pth
+
+*/data/**
